@@ -1,0 +1,27 @@
+{
+  "name": "@airchains-network/air",
+  "version": "1.0.0",
+  "description": "Airchains JS Package",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kritarth1107/air.js.git"
+  },
+  "keywords": [
+    "air.js",
+    "airchains",
+    "blockchain",
+    "web3",
+    "cosmos",
+    "solana"
+  ],
+  "author": "Kritarth Agrawal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kritarth1107/airchains-js/issues"
+  },
+  "homepage": "https://github.com/kritarth1107/airchains-js#readme"
+}
