@@ -1,5 +1,5 @@
 {
-  "name": "@airchains-network/air",
+  "name": "@airchains/air",
   "version": "1.0.0",
   "description": "Airchains JS Package",
   "main": "./src/cosmos/index.js",
