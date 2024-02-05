@@ -2,7 +2,7 @@
   "name": "@airchains-network/air",
   "version": "1.0.0",
   "description": "Airchains JS Package",
-  "main": "index.js",
+  "main": "./src/cosmos/index.js",
   "type": "module",
   "scripts": {
     "test": "node test.js"
